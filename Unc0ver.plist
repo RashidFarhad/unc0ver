@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ipawj.nuosike.cn/ipa/YYlIl-lIl/520_unc0ver.ipa</string>
+					<string>https://github-production-release-asset-2e65be.s3.amazonaws.com/147667687/80d08a80-5850-11ea-9e80-9e5083b9fc41?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200824%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20200824T174417Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=019becf1b95a5630c0d81a4e72364172535c90eb6d4910bcb4c9ee5a0dd64fe1&amp;X-Amz-SignedHeaders=host&amp;actor_id=69083831&amp;repo_id=147667687&amp;response-content-disposition=attachment%3B%20filename%3DUndecimus-v4.2.1.ipa&amp;response-content-type=application%2Foctet-stream</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>science.xnu.undecimus</string>
 				<key>bundle-version</key>
-				<string>5.0.2</string>
+				<string>4.2.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string> 📥Unc0ver 📥
+				<string>📥Unc0verNew📥
 🟥🔥 JailBreak 🔥🟥
-RashidFarhad 🇮🇱 </string>
+RashidFarhad 🇮🇱</string>
 			</dict>
 		</dict>
 	</array>
