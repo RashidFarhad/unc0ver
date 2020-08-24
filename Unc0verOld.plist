@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>science.xnu.undecimus</string>
+				<string>science.kuno.undecimmus</string>
 				<key>bundle-version</key>
 				<string>4.2.1</string>
 				<key>kind</key>
